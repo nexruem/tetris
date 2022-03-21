@@ -11,8 +11,7 @@ public class GameForm extends JFrame {
         
         gameArea = new GameArea(placeholder, 10);
         
-        this.add(gameArea);
-        
+        this.add(gameArea);        
     }
       
     @SuppressWarnings("unchecked")
